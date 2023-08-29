@@ -3,6 +3,7 @@ module aws
 go 1.20
 
 require (
+	github.com/aws/aws-sdk-go v1.44.333 // indirect
 	github.com/aws/aws-sdk-go-v2 v1.21.0 // indirect
 	github.com/aws/aws-sdk-go-v2/config v1.18.37 // indirect
 	github.com/aws/aws-sdk-go-v2/credentials v1.13.35 // indirect
