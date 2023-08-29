@@ -1,4 +1,4 @@
-name: Issue Created Bot
+name: Run code
 
 on:
   workflow_dispatch:
