@@ -12,3 +12,7 @@ This application interact with the Rest API's of the AWS to generate a cost repo
 1. Fork the repo in your GitHub Account
 2. Setup Reposetory secrets `AWS_ACCESS_KEY_ID`, `AWS_SECRET_ACCESS_KEY`, `AWS_region`
 3. run `run.yml` to run the application
+      - Click on Actions button
+      - Click on run code
+      - click on `Run workflow` button
+      - select branch and run
